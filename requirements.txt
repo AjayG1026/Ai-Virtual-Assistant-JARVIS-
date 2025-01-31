@@ -1,0 +1,5 @@
+numpy
+pyjokes
+pyttsx3
+speechrecognition
+scikit-learn
