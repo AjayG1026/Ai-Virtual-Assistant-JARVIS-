@@ -10,3 +10,10 @@ Operations This AI-Vitual Assistnat can perform:
 3. Tell Current Time
 4. Open Youtube
 5. Exit on Command
+
+## How to use:
+1. Clone the Repo
+2. Execute the following command in terminal to install the required dependencies:
+<br>
+command: pip install -r requirements. txt
+<br>
